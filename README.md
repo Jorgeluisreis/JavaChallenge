@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fdsuidip45i861.png%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3Dba3592b18f9248a8e33ab12883fbd6b136616074" alt="Logo">
+  <img src="https://i.imgur.com/OlAXmKK.png" alt="Logo">
 </p>
 
 # Java Challenge

@@ -4,7 +4,7 @@
 </p>
 
 # Java Challenge
-Este repositório foi criado para o acompanhamento da minha evolução em Java. Nele será abordado a parte teórica e prática de cada tópico aqui apresentado.
+Este repositório foi criado para a documentação de aprendizado, principalmente para ser usado para os iniciantes do programa 1000Devs Turma 4. Nele será abordado a parte teórica e prática de cada tópico aqui apresentado.
 
 # Roadmap de Estudos em Java
 

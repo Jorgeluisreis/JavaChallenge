@@ -16,9 +16,10 @@ Este roadmap foi criado para te guiar desde os fundamentos até tópicos mais av
 |----------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
 | História do Java e JVM           | Estudar como a JVM funciona.                                               | [História do Java e JVM](https://friendly-king-597.notion.site/Hist-ria-do-Java-5ca63bf92944407284f4050546b1d8f6?pvs=4)                              |
 | Tipos de dados e operadores      | Resolver problemas básicos de lógica no console.                           | [Tipos de dados e operadores](https://friendly-king-597.notion.site/Tipos-de-Dados-1079c07fc35a800f943ec48f3c4c24d6)                                 |
-| Controle de fluxo                | Criar pequenos programas com `if/else`, `switch`, laços (`for`, `while`).   | [Controle de fluxo](https://www.notion.so/Controle-de-Fluxo-1079c07fc35a80f9b444fd12e0a38fb8)                                                        |
-| Métodos e escopo de variáveis    | Implementar funções para cálculos matemáticos básicos.                     | [Calculadora](https://github.com/Jorgeluisreis/JavaChallenge)                                                                      |
+| Controle de fluxo                | Criar pequenos programas com `if/else`, `switch`, laços (`for`, `while`).   | [Controle de fluxo](https://www.notion.so/Controle-de-Flu-1079c07fc35a80f9b444fd12e0a38fb8)                                                        |
+| Métodos e escopo de variáveis    | Implementar funções para cálculos matemáticos básicos.                     | [Métodos e escopo de variáveis](https://github.com/Jorgeluisreis/JavaChallenge)                                                                      |
 | Manipulação de Strings           | Simular operações com Strings.                                             | [Manipulação de Strings](https://friendly-king-597.notion.site/Manipula-o-de-Strings-1089c07fc35a80efab8ad5a0448c5f4f)                               |
+| Calculadora Simples              | Criar um programa que solicita dois números e uma operação matemática.     | [Calculadora Simples](https://github.com/Jorgeluisreis/JavaChallenge/tree/main/Calculadora)                                                        |
 
 **Duração:** 1-2 semanas (1 hora por dia)  
 **Tempo por tópico:** 2-3 dias

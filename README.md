@@ -1,9 +1,10 @@
+
 <p align="center">
   <img src="https://i.imgur.com/OlAXmKK.png" alt="Logo">
 </p>
 
 # Java Challenge
-Este repositório foi criado para o acompanhamento da minha evololução em Java. Nele será abordado a parte teórica e prática de cada tópico aqui apresentado.
+Este repositório foi criado para o acompanhamento da minha evolução em Java. Nele será abordado a parte teórica e prática de cada tópico aqui apresentado.
 
 # Roadmap de Estudos em Java
 
@@ -11,18 +12,19 @@ Este roadmap foi criado para te guiar desde os fundamentos até tópicos mais av
 
 ## 1. Fundamentos do Java (1 a 2 semanas)
 
-| Tópico                          | Atividades                                                                 |
-|----------------------------------|----------------------------------------------------------------------------|
-| História do Java e JVM           | Estudar como a JVM funciona.                                               |
-| Tipos de dados e operadores      | Resolver problemas básicos de lógica no console.                           |
-| Controle de fluxo                | Criar pequenos programas com `if/else`, `switch`, laços (`for`, `while`).   |
-| Métodos e escopo de variáveis    | Implementar funções para cálculos matemáticos básicos.                     |
-| Manipulação de Strings           | Simular operações com Strings.                                             |
+| Tópico                          | Atividades                                                                 | Links                                                                                                                                               |
+|----------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| História do Java e JVM           | Estudar como a JVM funciona.                                               | [História do Java e JVM](https://friendly-king-597.notion.site/Hist-ria-do-Java-5ca63bf92944407284f4050546b1d8f6?pvs=4)                              |
+| Tipos de dados e operadores      | Resolver problemas básicos de lógica no console.                           | [Tipos de dados e operadores](https://friendly-king-597.notion.site/Tipos-de-Dados-1079c07fc35a800f943ec48f3c4c24d6)                                 |
+| Controle de fluxo                | Criar pequenos programas com `if/else`, `switch`, laços (`for`, `while`).   | [Controle de fluxo](https://www.notion.so/Controle-de-Fluxo-1079c07fc35a80f9b444fd12e0a38fb8)                                                        |
+| Métodos e escopo de variáveis    | Implementar funções para cálculos matemáticos básicos.                     | [Calculadora](https://github.com/Jorgeluisreis/JavaChallenge)                                                                      |
+| Manipulação de Strings           | Simular operações com Strings.                                             | [Manipulação de Strings](https://friendly-king-597.notion.site/Manipula-o-de-Strings-1089c07fc35a80efab8ad5a0448c5f4f)                               |
 
 **Duração:** 1-2 semanas (1 hora por dia)  
 **Tempo por tópico:** 2-3 dias
 
 ---
+
 
 ## 2. Orientação a Objetos (2 a 3 semanas)
 

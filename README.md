@@ -1,4 +1,5 @@
 
+
 <p align="center">
   <img src="https://i.imgur.com/OlAXmKK.png" alt="Logo">
 </p>
@@ -26,22 +27,7 @@ Este roadmap foi criado para te guiar desde os fundamentos até tópicos mais av
 
 ---
 
-
-## 2. Orientação a Objetos (2 a 3 semanas)
-
-| Tópico                            | Atividades                                                                        |
-|------------------------------------|-----------------------------------------------------------------------------------|
-| Classes e Objetos                 | Criar um sistema simples (ex: gerenciador de biblioteca ou loja de produtos).      |
-| Encapsulamento, Herança, Polimorfismo | Implementar exemplos práticos com herança e polimorfismo.                         |
-| Modificadores de acesso            | Praticar o uso de `public`, `private`, `protected` em um sistema de cadastro.      |
-| Construtores e destrutores         | Simular a criação e destruição de objetos.                                         |
-
-**Duração:** 2-3 semanas (1-1.5 horas por dia)  
-**Tempo por tópico:** 3-5 dias
-
----
-
-## 3. Estruturas de Dados e Coleções (2 a 3 semanas)
+## 2. Estruturas de Dados e Coleções (2 a 3 semanas)
 
 | Tópico                      | Atividades                                                              |
 |------------------------------|-------------------------------------------------------------------------|
@@ -53,6 +39,19 @@ Este roadmap foi criado para te guiar desde os fundamentos até tópicos mais av
 **Tempo por tópico:** 2-3 dias
 
 ---
+
+
+## 3. Orientação a Objetos (2 a 3 semanas)
+
+| Tópico                            | Atividades                                                                        |
+|------------------------------------|-----------------------------------------------------------------------------------|
+| Classes e Objetos                 | Criar um sistema simples (ex: gerenciador de biblioteca ou loja de produtos).      |
+| Encapsulamento, Herança, Polimorfismo | Implementar exemplos práticos com herança e polimorfismo.                         |
+| Modificadores de acesso            | Praticar o uso de `public`, `private`, `protected` em um sistema de cadastro.      |
+| Construtores e destrutores         | Simular a criação e destruição de objetos.                                         |
+
+**Duração:** 2-3 semanas (1-1.5 horas por dia)  
+**Tempo por tópico:** 3-5 dias
 
 ## 4. Exceções e Manipulação de Arquivos (1 semana)
 

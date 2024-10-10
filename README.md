@@ -29,16 +29,18 @@ Este roadmap foi criado para te guiar desde os fundamentos até tópicos mais av
 
 ## 2. Estruturas de Dados e Coleções (2 a 3 semanas)
 
-| Tópico                      | Atividades                                                              |
-|------------------------------|-------------------------------------------------------------------------|
-| Arrays e Matrizes            | Aplicabilidade na prática entre Arrays e Matrizes.                      |
-| Listas, Sets e Mapas         | A importância de Coleções em Java para manipular grandes volumes.       |
-| Iteradores                   | Praticar a navegação por coleções utilizando Iteradores.                |
+| Tópico                      | Atividades                                                                                         |
+|-----------------------------|----------------------------------------------------------------------------------------------------|
+| Arrays e Matrizes            | Aplicabilidade na prática entre Arrays e Matrizes, implementando métodos para manipulação.          |
+| Listas, Sets e Mapas         | A importância de Coleções em Java para manipular grandes volumes, com métodos de busca e inserção. |
+| Métodos                      | Criar métodos reutilizáveis para manipular Arrays, Listas, Sets e Mapas de forma eficiente.        |
+| Iteradores                   | Praticar a navegação por coleções utilizando Iteradores, com métodos que encapsulam essa lógica.   |
 
 **Duração:** 2-3 semanas (1 hora por dia)  
 **Tempo por tópico:** 2-3 dias
 
 ---
+
 
 
 ## 3. Orientação a Objetos (2 a 3 semanas)

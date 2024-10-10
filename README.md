@@ -31,8 +31,8 @@ Este roadmap foi criado para te guiar desde os fundamentos até tópicos mais av
 
 | Tópico                      | Atividades                                                              |
 |------------------------------|-------------------------------------------------------------------------|
-| Arrays e Matrizes            | Resolver exercícios de ordenação e busca em arrays.                     |
-| Listas, Sets e Mapas         | Usar coleções do Java (List, Set, Map) para manipular grandes volumes.  |
+| Arrays e Matrizes            | Aplicabilidade na prática entre Arrays e Matrizes.                      |
+| Listas, Sets e Mapas         | A importância de Coleções em Java para manipular grandes volumes.       |
 | Iteradores                   | Praticar a navegação por coleções utilizando Iteradores.                |
 
 **Duração:** 2-3 semanas (1 hora por dia)  

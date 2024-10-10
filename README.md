@@ -28,12 +28,13 @@ Este roadmap foi criado para te guiar desde os fundamentos até tópicos mais av
 
 ## 2. Estruturas de Dados e Coleções (2 a 3 semanas)
 
-| Tópico               | Atividades                                                                                         |
-| -------------------- | -------------------------------------------------------------------------------------------------- |
-| Arrays e Matrizes    | Aplicabilidade na prática entre Arrays e Matrizes, implementando métodos para manipulação.         |
-| Métodos              | Criar métodos reutilizáveis para manipular Arrays, Listas, Sets e Mapas de forma eficiente.        |
-| Listas, Sets e Mapas | A importância de Coleções em Java para manipular grandes volumes, com métodos de busca e inserção. |
-| Iteradores           | Praticar a navegação por coleções utilizando Iteradores, com métodos que encapsulam essa lógica.   |
+| Tópico                      | Atividades                                                                                         | Links                                                                                                                  |
+| --------------------------- | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Iteradores                  | Praticar a navegação por coleções utilizando Iteradores, com métodos que encapsulam essa lógica.   | [Iteradores](https://friendly-king-597.notion.site/Iteradores-11b9c07fc35a80b695e4e35092cfe8f3?pvs=4)                  |
+| Métodos                     | Criar métodos reutilizáveis para manipular Arrays, Listas, Sets e Mapas de forma eficiente.        | [Métodos](https://friendly-king-597.notion.site/M-todos-11b9c07fc35a80b6883fdc3c6ea2bcd3?pvs=4)                        |
+| Arrays e Matrizes           | Aplicabilidade na prática entre Arrays e Matrizes, implementando métodos para manipulação.         | [Arrays e Matrizes](https://friendly-king-597.notion.site/Arrays-e-Matrizes-11a9c07fc35a803da5ccf3c625a299cb?pvs=4)    |
+| Listas, Sets e Mapas        | A importância de Coleções em Java para manipular grandes volumes, com métodos de busca e inserção. | [Listas, Sets e Maps](https://friendly-king-597.notion.site/Listas-Sets-e-Maps-11b9c07fc35a808a8653fae0a22c4e72?pvs=4) |
+| Sistema de Cadastro Simples | Um sistema de cadastro de pessoas abordando tudo que foi estudado até aqui.                        | [Sistema de Cadastro Simples](https://github.com/Jorgeluisreis/JavaChallenge/tree/main/SistemaCadastro)                |
 
 **Duração:** 2-3 semanas (1 hora por dia)  
 **Tempo por tópico:** 2-3 dias

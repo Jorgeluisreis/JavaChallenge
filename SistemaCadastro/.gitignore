@@ -1,0 +1,28 @@
+# Compilação do Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Diretórios de build
+/build/
+/bin/
+/target/
+
+# Diretórios de IDEs
+.vscode/
+/.idea/
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Arquivos de configuração do VSCode
+.settings/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Configurações do Maven
+.m2/
